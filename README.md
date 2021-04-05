@@ -29,9 +29,7 @@ I don't really commit to repositories that often but every once in awhile I make
 ## Where to find me
 <p>
   <a href="https://i.imgur.com/BT1S8P8.png"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/Readtt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-  <a href="https://twitter.com/HK420_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
-  
+  <a href="https://github.com/Readtt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
 ## Overview

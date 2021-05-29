@@ -2,7 +2,7 @@
 
 ## About
 Welcome!<br>
-I don't really commit to repositories that often but every once in awhile I make some useless ones✨
+I don't really commit to repositories that often but every once in awhile I make some useless ones c:
 
 ## Languages & Tools💻
 <p>
